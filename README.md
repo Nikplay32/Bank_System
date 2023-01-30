@@ -1,4 +1,3 @@
-# Bank_System
 # PeresunkoA_bank_system
 # Projekta nosaukums
   - Bank System
@@ -15,3 +14,5 @@
  - utt.
 ## Izmantotās tehnoloģijas
   - C++
+## Other Information:
+  - Project was made in 2021/Uploaded from old Github account
